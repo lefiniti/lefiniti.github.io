@@ -11,8 +11,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "越努力，越幸运"
+sidebar-avatar: /img/avatar-lefiniti.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     
 zhihu_username:     若水写安宁
 github_username:    lefiniti
-facebook_username:  
-jianshu_username:   
+#facebook_username:  
+#jianshu_username:   
 #twitter_username:   
 
 
