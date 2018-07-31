@@ -1,10 +1,10 @@
 # Site settings
 title: lefiniti Blog
 SEOTitle: 王平的博客 | Wang Ping
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-homepage.jpg
 email: lefiniti@icloud.com
 description: "越努力，越幸运。"
-keyword: "王平, lefiniti, 王平的博客, iOS, Apple, iPhone"
+keyword: "王平, lefiniti, 王平的博客, ai, AI, 人工智能, design, 设计"
 url: "http://lefiniti.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lefiniti/lefiniti.github.io" # you code repository
